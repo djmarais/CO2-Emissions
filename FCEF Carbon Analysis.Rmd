@@ -486,6 +486,6 @@ kbl(cc_res, col.names=c("Estimated","Observed"),
 
 ## Concluding remarks
 
-Mass and carbon balances can be constructed for aggregate cases, as well as cases for individual production plants.  It will, however, require assumptions for variable distributions in cases where statistical measured data does not exist – it is proposed to assume aggregate averages in such instances, as constructed for the Glencore aggregate case.
+Mass and carbon balances can be constructed for aggregate cases, as well as cases for individual production plants.  It will, however, require assumptions for variable distributions in cases where statistical measured data does not exist – it is proposed to assume aggregate averages in such instances, as constructed for the aggregate case.
 
 
